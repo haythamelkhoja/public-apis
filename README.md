@@ -101,6 +101,7 @@ API | Description | Auth | HTTPS | Link |
 ### Calendar
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
+| Date Conv | Date Conversion and Hijri Calendar | No | Yes | [Go!](https://dateconv.io/) |  
 | Church Calendar | Catholic liturgical calendar | No | No | [Go!](http://calapi.inadiutorium.cz/) |
 | Holidays | Historical data regarding holidays | `apiKey` | Yes | [Go!](https://holidayapi.com/) |
 | LectServe | Protestant liturgical calendar | No | No | [Go!](http://www.lectserve.com) |
